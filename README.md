@@ -1,5 +1,9 @@
 React App: Allows users to search the Spotify library, create a custom playlist, then save it to their Spotify account by using the Spotify API. 
 
+<img width="1115" alt="Bildschirmfoto 2019-05-23 um 4 06 46 PM" src="https://user-images.githubusercontent.com/49861247/58255107-e6995e80-7d74-11e9-8068-01cd35b4948c.png">
+
+<img width="564" alt="Bildschirmfoto 2019-05-23 um 4 07 06 PM" src="https://user-images.githubusercontent.com/49861247/58255109-e6995e80-7d74-11e9-8e6b-8fa001e164b2.png">
+
 ----------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
